@@ -1,0 +1,13 @@
+#ifndef CONFIG_H_INCLUDED
+#define CONFIG_H_INCLUDED
+
+
+
+#define LEVEL RF24_PA_MAX
+#define DATA_RATE RF24_250KBPS
+#define AUTO_ACK true
+#define CHANNEL 0x47
+
+
+
+#endif // CONFIG_H_INCLUDED
